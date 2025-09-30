@@ -6,7 +6,8 @@ __pycache__/
 venv/
 
 # Ignorar arquivos gerados do projeto
-qrcodes/
+qrcodes/*
+!qrcodes/.gitkeep
 
 # Ignorar builds/execuções
 dist/
