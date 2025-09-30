@@ -1,0 +1,18 @@
+# Ignorar cache do Python
+__pycache__/
+*.pyc
+
+# Ignorar ambiente virtual
+venv/
+
+# Ignorar arquivos gerados do projeto
+qrcodes/
+
+# Ignorar builds/execuções
+dist/
+build/
+*.spec
+
+# Ignorar configs de IDEs
+.vscode/
+.idea/

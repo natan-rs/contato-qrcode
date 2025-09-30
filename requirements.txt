@@ -1,0 +1,3 @@
+PySide6   # framework para a interface gráfica (Qt para Python)
+qrcode    # biblioteca para gerar QR Codes
+Pillow    # usada junto com qrcode para manipulação de imagens
